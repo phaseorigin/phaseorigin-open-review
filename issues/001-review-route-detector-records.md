@@ -3,7 +3,7 @@
 - State: open
 - Author: phaseorigin
 - Created: 2026-05-22T17:45:22Z
-- Updated: 2026-05-22T17:45:22Z
+- Updated: 2026-05-22T23:56:16Z
 - URL: https://github.com/phaseorigin/phaseorigin-open-review/issues/1
 - Comments: 0
 
@@ -14,7 +14,7 @@ This issue collects critical comments on one bounded CHC claim family.
 It is not a request to accept the full CHC program.
 
 ## Claim family
-Detector-record closure and durable records.
+Detector-local event closure and durable record formation.
 
 ## Standard tools retained
 Propagation, detector physics, thermodynamic switching models, and ordinary readout models remain in scope.

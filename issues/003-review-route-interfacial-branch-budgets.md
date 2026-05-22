@@ -3,7 +3,7 @@
 - State: open
 - Author: phaseorigin
 - Created: 2026-05-22T17:45:44Z
-- Updated: 2026-05-22T17:45:44Z
+- Updated: 2026-05-22T23:56:29Z
 - URL: https://github.com/phaseorigin/phaseorigin-open-review/issues/3
 - Comments: 0
 
@@ -17,7 +17,8 @@ It is not a request to accept the full CHC program.
 Interfacial outcomes and branch budgets across sectors.
 
 ## Standard tools retained
-Standard interactions, conservation intuition, response theory, material-state accounting, and statistical bookkeeping remain in scope.
+Maxwell/QED calculations, material response, transport, dissipation, detector microphysics,
+ordinary conservation bookkeeping, and response theory remain in scope.
 
 ## What CHC adds
 Proposed typed accounting constraints for absorbed excitation, retained response, externalized output, and dissipative loss across interfaces, without claiming a full fit.

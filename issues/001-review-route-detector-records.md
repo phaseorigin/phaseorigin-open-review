@@ -10,7 +10,7 @@
 ## Body
 
 ## Purpose
-This is the canonical active thread for critical comments on one bounded CHC claim family.
+This issue collects critical comments on one bounded CHC claim family.
 It is not a request to accept the full CHC program.
 
 ## Claim family

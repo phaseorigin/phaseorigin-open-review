@@ -34,6 +34,8 @@ Useful issues usually include one or more of:
 
 Concrete criticism is preferred over broad agreement or disagreement.
 
+New issues should use the review-objection template when possible. The preferred shape is: claim family, target page or paper, objection type, proposed status change, evidence or reference, and what would resolve the issue.
+
 ## Not Useful Here
 
 Please avoid:

@@ -6,7 +6,10 @@ It is not a request to accept or reject the whole CHC program at once. The usefu
 
 ## Primary Entry Point
 
+- PhaseOrigin site: https://www.phaseorigin.com/
 - Reviewer page: https://www.phaseorigin.com/research/review/
+- Current review status: https://www.phaseorigin.com/research/status/
+- CHC archive map: https://www.phaseorigin.com/research/chc/
 - Archive DOI: https://doi.org/10.5281/zenodo.20282162
 - Open issues: https://github.com/phaseorigin/phaseorigin-open-review/issues
 
